@@ -3,7 +3,7 @@
 Simulates a DeFi platform with token transfers, staking, and portfolio tracking. **Contains intentional bugs requiring execution and debugging.**
 
 ## Source Code
-- **File**: `advanced.js`
+- **File**: `test.js`
 
 ## Prerequisites
 - **Node.js**: v16+
