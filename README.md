@@ -19,7 +19,7 @@ Simulates a DeFi platform with token transfers, staking, and portfolio tracking.
       PRIVATE_KEY=your-keys
   ```
 3. Run `mongod` and `redis-server`
-4. `node advanced.js`
+4. `node test.js`
 
 ## Problems and Questions
 
